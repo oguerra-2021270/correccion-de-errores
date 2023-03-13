@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ostyn Guerra",
+  "author": "Ostyn Guera",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
