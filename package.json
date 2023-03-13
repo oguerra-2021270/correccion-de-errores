@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Joshua Alvarez",
+  "author": "Ostyn Guerra",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
